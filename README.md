@@ -8,6 +8,16 @@ There is a sample app available at:
 
 https://github.com/Clean-Swift/CleanStore
 
+## Installation
+
+To install the Clean Swift Xcode templates and Snippets, run:
+
+> make install
+
+To uninstall the Clean Swift Xcode templates and Snippets, run:
+
+> make uninstall
+
 To install the Clean Swift Xcode templates, run:
 
 > make install_templates
@@ -15,3 +25,11 @@ To install the Clean Swift Xcode templates, run:
 To uninstall the Clean Swift Xcode templates, run:
 
 > make uninstall_templates
+
+To install the Clean Swift Xcode Snippets, run:
+
+> make install_snippets
+
+To uninstall the Clean Swift Xcode Snippets, run:
+
+> make uninstall_snippets

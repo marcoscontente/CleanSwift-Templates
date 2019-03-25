@@ -12,11 +12,11 @@ https://github.com/Clean-Swift/CleanStore
 
 To install the Clean Swift Xcode templates and Snippets, run:
 
->>> make install
+> make install
 
 To uninstall the Clean Swift Xcode templates and Snippets, run:
 
->>> make uninstall
+> make uninstall
 
 To install the Clean Swift Xcode templates, run:
 

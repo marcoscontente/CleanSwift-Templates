@@ -3,6 +3,6 @@
 //
 //  Type "usecase" for some magic!
 
-struct ___VARIABLE_sceneName {
+struct ___VARIABLE_sceneName___ {
     
 }

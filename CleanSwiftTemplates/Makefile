@@ -26,4 +26,4 @@ uninstall_snippets:
 	@rm -fR $(XCODE_USER_SNIPPETS_DIR)/$(SNIPPETS_PREFIX)*
 
 uninstall: uninstall_templates uninstall_snippets
-@echo "Uninstall Done"
+	@echo "Uninstall Done"

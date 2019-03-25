@@ -7,7 +7,7 @@ protocol ___VARIABLE_sceneName___DisplayLogic: class {
     
 }
 
-class ___VARIABLE_sceneName___ViewController: UITableViewController {
+class ___VARIABLE_sceneName___ViewController: BaseViewController {
     
     var interactor: ___VARIABLE_sceneName___BusinessLogic?
     var router: ___VARIABLE_sceneName___RoutingLogic?

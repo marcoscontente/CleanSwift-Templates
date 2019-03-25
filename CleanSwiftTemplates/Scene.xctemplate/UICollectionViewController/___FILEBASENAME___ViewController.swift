@@ -7,7 +7,7 @@ protocol ___VARIABLE_sceneName___DisplayLogic: class {
     
 }
 
-class ___VARIABLE_sceneName___ViewController: UITableViewController {
+class ___VARIABLE_sceneName___ViewController: UICollectionViewController {
     
     var interactor: ___VARIABLE_sceneName___BusinessLogic?
     var router: ___VARIABLE_sceneName___RoutingLogic?
@@ -29,7 +29,6 @@ class ___VARIABLE_sceneName___ViewController: UITableViewController {
 }
 
 // MARK:- Display logic
-
 extension ___VARIABLE_sceneName___ViewController: ___VARIABLE_sceneName___DisplayLogic {
     
 }
